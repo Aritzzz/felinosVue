@@ -25,16 +25,16 @@ createApp({
   data() {
     return {
       felinos: [
-        { id: 1, nombre: "Caracal", poblacion: "4.700.000", imagen: "img/caracal.webp" },
-        { id: 2, nombre: "Guepardo", poblacion: "7.000", imagen: "img/guepardo.webp" },
-        { id: 3, nombre: "Jaguar", poblacion: "30.000", imagen: "img/jaguar.webp" },
-        { id: 4, nombre: "Leon", poblacion: "122.000", imagen: "img/leon.webp" },
-        { id: 5, nombre: "Leopardo", poblacion: "5.000", imagen: "img/leopardo.webp" },
-        { id: 6, nombre: "Leopardo de las nieves", poblacion: "7.500", imagen: "img/leopardoNieves.webp" },
-        { id: 7, nombre: "Lince iberico", poblacion: "2.000", imagen: "img/lince.webp" },
-        { id: 8, nombre: "Ocelote", poblacion: "100", imagen: "img/ocelote.webp" },
-        { id: 9, nombre: "Puma", poblacion: "50.000", imagen: "img/puma.webp" },
-        { id: 10, nombre: "Tigre", poblacion: "5000", imagen: "img/tigre.webp" },
+        { id: 1, nombre: "Caracal", poblacion: "4.700.000", imagen: "caracal.webp" },
+        { id: 2, nombre: "Guepardo", poblacion: "7.000", imagen: "guepardo.webp" },
+        { id: 3, nombre: "Jaguar", poblacion: "30.000", imagen: "jaguar.webp" },
+        { id: 4, nombre: "Leon", poblacion: "122.000", imagen: "leon.webp" },
+        { id: 5, nombre: "Leopardo", poblacion: "5.000", imagen: "leopardo.webp" },
+        { id: 6, nombre: "Leopardo de las nieves", poblacion: "7.500", imagen: "leopardoNieves.webp" },
+        { id: 7, nombre: "Lince iberico", poblacion: "2.000", imagen: "lince.webp" },
+        { id: 8, nombre: "Ocelote", poblacion: "100", imagen: "ocelote.webp" },
+        { id: 9, nombre: "Puma", poblacion: "50.000", imagen: "puma.webp" },
+        { id: 10, nombre: "Tigre", poblacion: "5000", imagen: "tigre.webp" },
        
        
       ],
